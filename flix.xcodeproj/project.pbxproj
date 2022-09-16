@@ -16,6 +16,7 @@
 		68314D6628D4E914000F24B0 /* flixTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68314D6528D4E914000F24B0 /* flixTests.swift */; };
 		68314D7028D4E914000F24B0 /* flixUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68314D6F28D4E914000F24B0 /* flixUITests.swift */; };
 		68314D7228D4E914000F24B0 /* flixUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68314D7128D4E914000F24B0 /* flixUITestsLaunchTests.swift */; };
+		68314D8328D504C2000F24B0 /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68314D8228D504C2000F24B0 /* MovieCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		68314D6B28D4E914000F24B0 /* flixUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = flixUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		68314D6F28D4E914000F24B0 /* flixUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = flixUITests.swift; sourceTree = "<group>"; };
 		68314D7128D4E914000F24B0 /* flixUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = flixUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		68314D8228D504C2000F24B0 /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				68314D5028D4E913000F24B0 /* SceneDelegate.swift */,
 				68314D5228D4E913000F24B0 /* ViewController.swift */,
 				68314D5428D4E913000F24B0 /* Main.storyboard */,
+				68314D8228D504C2000F24B0 /* MovieCell.swift */,
 				68314D5728D4E914000F24B0 /* Assets.xcassets */,
 				68314D5928D4E914000F24B0 /* LaunchScreen.storyboard */,
 				68314D5C28D4E914000F24B0 /* Info.plist */,
@@ -261,6 +264,7 @@
 				68314D5328D4E913000F24B0 /* ViewController.swift in Sources */,
 				68314D4F28D4E913000F24B0 /* AppDelegate.swift in Sources */,
 				68314D5128D4E913000F24B0 /* SceneDelegate.swift in Sources */,
+				68314D8328D504C2000F24B0 /* MovieCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
